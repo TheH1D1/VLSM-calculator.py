@@ -9,4 +9,7 @@
 fontos linkek:
 
 https://stackoverflow.com/questions/38864268/splitting-a-network-into-subnets-of-multiple-prefixes
+
 https://szit.hu/doku.php?id=oktatas:halozat:cisco_szerint_a_halozat:fejezet_08_-_alhalozat
+
+https://docs.python.org/3/library/ipaddress.html
